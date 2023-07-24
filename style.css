@@ -23,6 +23,7 @@
     left: 580px;
     animation: cactusMov 1s infinite linear;
 }
+
 @keyframes cactusMov {
     0% {
         left: 580px;
